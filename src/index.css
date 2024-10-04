@@ -16,5 +16,6 @@ button {
   background :var(--red);
   height: 32px;
   color: white ;
+  font-weight: 500;
   
 }
